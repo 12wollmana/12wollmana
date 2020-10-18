@@ -13,20 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me
+# Aaron Wollman
 <em>He/Him</em>
+<ul>
+  <li>
+    Unemployed during COVID-19.
+  </li>
+  <li>
+    Working on Data Analytics & Visualizations Bootcamp Certificate from the University of Minnesota.
+  </li>
+  <li>
+    Former Epic Systems Software Developer.
+  </li>
+  <li>
+    Bachelors of Science in Computer Engineering from Univeristy of Nebraska-Lincoln.
+  </li>
+</ul>
 
-Currently unemployed during COVID-19.
 
-I'm studying Data Analytics, Machine Learning, and Front End Development.
-
-Former Epic Systems Software Developer.
-
-Bachelors of Science in Computer Engineering from Univeristy of Nebraska-Lincoln.
-
-### Favorite Languages
-- Typescript
-- MUMPS
-- C#
-- Java
-- C
