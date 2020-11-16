@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     Former Epic Systems Software Developer.
   </li>
   <li>
-    Bachelors of Science in Computer Engineering from Univeristy of Nebraska-Lincoln.
+    Bachelors of Science in Computer Engineering from University of Nebraska-Lincoln.
   </li>
 </ul>
 
