@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 <em>He/Him</em>
 <ul>
   <li>
-    Unemployed during COVID-19.
-  </li>
-  <li>
-    Working on Data Analytics & Visualizations Bootcamp Certificate from the University of Minnesota.
-  </li>
-  <li>
     Former Epic Systems Software Developer.
   </li>
   <li>
     Bachelors of Science in Computer Engineering from University of Nebraska-Lincoln.
+  </li>
+  <li>
+    Data Analytics & Visualizations Bootcamp Certificate from the University of Minnesota.
+  </li>
+  <li>
+    Pursuing Masters of Computer Science from the University of Texas at Austin.
   </li>
 </ul>
 
